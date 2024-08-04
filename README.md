@@ -32,5 +32,5 @@ All documentation for a monthly budget app to be developed.
 
 * Update 07/31/2024
 * ## **Module 5**
-* ### Mobile app update: I am uploading the wireframe for the Budget App, now I will be working on the code using Android Studio, Koalwa version.
+* ### Mobile app update: I am uploading the wireframe for the Budget App, now I will be working on the code using Android Studio, Koala version.
 * ![image_4731025021721342125244](https://github.com/user-attachments/assets/a694b3b8-8014-4ba6-b538-c36c6b121ce8)
