@@ -29,3 +29,8 @@ All documentation for a monthly budget app to be developed.
 * **Home Screen:** Will greet the user and will ask to input the Amount of money available for the month.
 * **Add transactions screen:** In this screen the user will input the type of transaction, name of the transaction and the amount to be paid for the month.
 * **Feature Screens:** This screen will have the transactions for the month and will allow the user to input the amount of money paid.
+
+* Update 07/31/2024
+* ## **Module 5**
+* ### Mobile app update: I am uploading the wireframe for the Budget App, now I will be working on the code using Android Studio, Koalwa version.
+* ![image_4731025021721342125244](https://github.com/user-attachments/assets/a694b3b8-8014-4ba6-b538-c36c6b121ce8)
