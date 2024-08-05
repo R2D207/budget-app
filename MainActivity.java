@@ -1,4 +1,4 @@
-Mainpackage com.hchuey.budgetapp;
+package com.hchuey.budgetapp;
 
 import android.os.Bundle;
 
