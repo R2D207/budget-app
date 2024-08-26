@@ -1,0 +1,19 @@
+#container {
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+}
+
+p {
+    text-align: justify;
+}
+#container div {
+    margin-bottom: 1em;
+}
+
+input[type=text], input[type=number] {
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+}

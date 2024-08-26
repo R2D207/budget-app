@@ -1,0 +1,33 @@
+<ion-header [translucent]="true">
+    <ion-toolbar>
+        <ion-title>Budget App</ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+    <ion-header collapse="condense">
+        <ion-toolbar>
+            <ion-title size="large">Home</ion-title>
+        </ion-toolbar>
+    </ion-header>
+
+    <div id="container">
+        <h1>My payments: {{ suma }}</h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est libero, ornare quis posuere a, interdum
+            sit amet velit. Sed magna eros, lobortis eget vehicula at, sodales in nibh. In commodo venenatis augue a
+            semper. Vestibulum ut nulla nec eros blandit venenatis nec sed nulla. Nunc lobortis sit amet lorem et
+            euismod. Sed sed nisi metus. Nullam nulla massa, tristique non ornare in, condimentum et orci. Aliquam erat
+            volutpat. Ut vel nulla lacus. Phasellus tristique dolor vel ipsum placerat, efficitur pellentesque risus
+            interdum. Duis ac arcu commodo, imperdiet urna a, bibendum erat.
+        </p>
+
+        <h3>List of budgets</h3>
+        <ul>
+            <li *ngFor="let item of data">
+                <strong>{{ item.name }}:</strong> {{ item.value }}
+            </li>
+        </ul>
+
+    </div>
+</ion-content>
